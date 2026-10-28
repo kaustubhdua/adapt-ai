@@ -9,7 +9,7 @@ Built by:
 
 - Pulkit Sukhija ([@ManOfDiamond](https://github.com/ManOfDiamond))
 - Aryan Sharma ([@Aryan5x](https://github.com/Aryan5x))
-- Kaustabh Dua ([@coolbandariya](https://github.com/coolbandariya))
+- Kaustubh Dua ([@coolbandariya](https://github.com/coolbandariya))
 - Aishni Rathore ([@wildchord](https://github.com/wildchord))
 
 ## Demo video
